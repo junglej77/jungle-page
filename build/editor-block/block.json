@@ -1,0 +1,17 @@
+{
+  "apiVersion": 2,
+  "name": "wellerpcb/choose-editor",
+  "version": "0.1.0",
+  "title": "wellerpcb文章编辑器",
+  "category": "text",
+  "icon": "",
+  "description": "来选择按钮",
+  "textdomain": "choose-editor",
+  "supports": {
+    "html": false
+  },
+  "attributes": {},
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}
