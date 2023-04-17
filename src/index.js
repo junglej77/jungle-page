@@ -1,6 +1,6 @@
 import { registerPlugin } from '@wordpress/plugins';
-import CustomToolbarPlugin from './custom-toolbar';
+import LibraryButtonPlugin from './library-button';
 
-registerPlugin('jungle-page-custom-toolbar', {
-    render: CustomToolbarPlugin,
+registerPlugin('jungle-page-library-button', {
+    render: LibraryButtonPlugin,
 });

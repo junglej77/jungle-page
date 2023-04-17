@@ -45,6 +45,7 @@ add_action('init', function () {
 	}
 });
 
+
 // 引入插件css和js
 //前台引入
 function add_jungle_plugins_styleScripts()
